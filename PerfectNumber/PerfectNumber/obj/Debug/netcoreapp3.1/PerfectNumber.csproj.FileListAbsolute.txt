@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\PerfectNumber\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.exe
+C:\Users\User\source\repos\PerfectNumber\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.deps.json
+C:\Users\User\source\repos\PerfectNumber\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.runtimeconfig.json
+C:\Users\User\source\repos\PerfectNumber\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.runtimeconfig.dev.json
+C:\Users\User\source\repos\PerfectNumber\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.dll
+C:\Users\User\source\repos\PerfectNumber\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.pdb
+C:\Users\User\source\repos\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.AssemblyInfo.cs
+C:\Users\User\source\repos\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.dll
+C:\Users\User\source\repos\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.pdb
+C:\Users\User\source\repos\PerfectNumber\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.genruntimeconfig.cache
