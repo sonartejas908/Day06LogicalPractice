@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Stop-Watch\Stop-Watch\bin\Debug\netcoreapp3.1\Stop-Watch.exe
+C:\Users\User\source\repos\Stop-Watch\Stop-Watch\bin\Debug\netcoreapp3.1\Stop-Watch.deps.json
+C:\Users\User\source\repos\Stop-Watch\Stop-Watch\bin\Debug\netcoreapp3.1\Stop-Watch.runtimeconfig.json
+C:\Users\User\source\repos\Stop-Watch\Stop-Watch\bin\Debug\netcoreapp3.1\Stop-Watch.runtimeconfig.dev.json
+C:\Users\User\source\repos\Stop-Watch\Stop-Watch\bin\Debug\netcoreapp3.1\Stop-Watch.dll
+C:\Users\User\source\repos\Stop-Watch\Stop-Watch\bin\Debug\netcoreapp3.1\Stop-Watch.pdb
+C:\Users\User\source\repos\Stop-Watch\Stop-Watch\obj\Debug\netcoreapp3.1\Stop-Watch.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Stop-Watch\Stop-Watch\obj\Debug\netcoreapp3.1\Stop-Watch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Stop-Watch\Stop-Watch\obj\Debug\netcoreapp3.1\Stop-Watch.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Stop-Watch\Stop-Watch\obj\Debug\netcoreapp3.1\Stop-Watch.AssemblyInfo.cs
+C:\Users\User\source\repos\Stop-Watch\Stop-Watch\obj\Debug\netcoreapp3.1\Stop-Watch.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Stop-Watch\Stop-Watch\obj\Debug\netcoreapp3.1\Stop-Watch.dll
+C:\Users\User\source\repos\Stop-Watch\Stop-Watch\obj\Debug\netcoreapp3.1\Stop-Watch.pdb
+C:\Users\User\source\repos\Stop-Watch\Stop-Watch\obj\Debug\netcoreapp3.1\Stop-Watch.genruntimeconfig.cache
